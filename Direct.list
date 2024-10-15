@@ -27,8 +27,12 @@ DOMAIN-SUFFIX,bde4.icu
 DOMAIN-KEYWORD,mirror
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+#IP-CIDR,219.146.1.66/32,no-resolve
 
+#tailscale
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 
 # 360
 DOMAIN-SUFFIX,360.com
