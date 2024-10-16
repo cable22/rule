@@ -17,8 +17,3 @@ DOMAIN-KEYWORD,mirror
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
 
-#tailscale
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,ts.net
-
