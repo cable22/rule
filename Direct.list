@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
 #自保留网站
-
+DOMAIN-SUFFIX,tailscale.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
