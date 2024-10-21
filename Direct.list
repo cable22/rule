@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,hao123.com
 
 #自保留网站
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,us.kg
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
